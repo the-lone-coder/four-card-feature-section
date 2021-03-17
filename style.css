@@ -90,10 +90,14 @@ p {
     margin-left: auto;
 }
 
+.attribution {
+    text-align: center;
+}
+
 @media (max-width: 790px) {
     
     .middle {
         transform: translateY(0);
     }
-    
+
 }
